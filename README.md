@@ -1,9 +1,9 @@
 # Projeto-PyZabbix
 
-Estudo da API-Zabbix e sua aplicação em um ambiente de produção de laboratório
+Diversos exemplos funcionais de querys utilizando a API do Zabbix.
 
 
-- [Dir](https://github.com/MikeFortes/Projeto-PyZabbix/tree/main/Code)
+- [Dir](https://github.com/MikeFortes/ZBX_QuerysAPI/tree/main/Code)
 
 
 <!-- CONTACT -->
@@ -14,4 +14,4 @@ Estudo da API-Zabbix e sua aplicação em um ambiente de produção de laborató
 ](https://twitter.com/mikes_script)
 - Email: mromeiro.f@gmail.com
 
-Project Link: [https://github.com/MikeFortes/Projeto-PyZabbix](https://github.com/MikeFortes/Projeto-PyZabbix)
+Project Link: [https://github.com/MikeFortes/ZBX_QuerysAPI](https://github.com/MikeFortes/ZBX_QuerysAPI)
