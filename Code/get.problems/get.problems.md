@@ -48,7 +48,7 @@ https://www.zabbix.com/documentation/5.0/en/manual/api/reference/problem/get
 
 ![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step4.1.png)
 &nbsp;
-&nbsp;
+
 5. Expandir colunas, fechar e carregar.
 &nbsp;
 
