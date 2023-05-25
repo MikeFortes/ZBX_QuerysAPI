@@ -35,16 +35,16 @@ https://www.zabbix.com/documentation/5.0/en/manual/api/reference/problem/get
 2. Após montar a query, efetuar a consulta GET para a API (body)
 
 3. Exportar o json e abri-lo no excel (Importar>JSON)
-![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step3.png)
+![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step3.png)<br>
 
 4. Clicar em Result > List, em seguida PARA A TABELA > OK
-![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step4.png)
-![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step4.1.png)
+![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step4.png)<br>
+![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step4.1.png)<br>
 
 
 5. Expandir colunas, fechar e carregar.
-![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step5.png)
-![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step5.1.png)
-![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step5.2.png)
+![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step5.png)<br>
+![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step5.1.png)<br>
+![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step5.2.png)<br>
 
 6. Pronto
