@@ -4,4 +4,4 @@ Extrair grandes quantias de problems via API, visto que a aplicação WEB ira re
 
 - Acesso via Postman
 
-![](https://github.com/MikeFortes/ZBX_QuerysAPI/tree/main/Code/get.problems/postman.png)
+![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/postman.png)
