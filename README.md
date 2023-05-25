@@ -2,12 +2,14 @@
 
 Diversos exemplos funcionais de querys utilizando a API do Zabbix.
 
-
-- [Dir](https://github.com/MikeFortes/ZBX_QuerysAPI/tree/main/Code/)
-
 ## Indice
 - [get.problems](https://github.com/MikeFortes/ZBX_QuerysAPI/tree/main/Code/get.problems/get.problems.md)
+&nbsp;
+&nbsp;
 
+---
+&nbsp;
+- [Dir](https://github.com/MikeFortes/ZBX_QuerysAPI/tree/main/Code/)
 
 <!-- CONTACT -->
 ## Contato
