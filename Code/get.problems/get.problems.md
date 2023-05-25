@@ -35,17 +35,23 @@ https://www.zabbix.com/documentation/5.0/en/manual/api/reference/problem/get
 2. Após montar a query, efetuar a consulta GET para a API (body)
 
 3. Exportar o json e abri-lo no excel (Importar>JSON)
+&nbsp;
+
 ![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step3.png)
 &nbsp;
 
 4. Clicar em Result > List, em seguida PARA A TABELA > OK
+&nbsp;
+
 ![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step4.png)
 &nbsp;
 
 ![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step4.1.png)
 &nbsp;
-
+&nbsp;
 5. Expandir colunas, fechar e carregar.
+&nbsp;
+
 ![](https://github.com/MikeFortes/ZBX_QuerysAPI/blob/main/Code/get.problems/step5.png)
 &nbsp;
 
